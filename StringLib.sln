@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringLib", "StringLib.vcxproj", "{C1C005BF-0C7E-40EB-AB1C-B8C6021EAEC9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringLibTest", "StringLibTest\StringLibTest.vcxproj", "{2FD3C5CA-BEEF-406D-AA11-2B004433CBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C005BF-0C7E-40EB-AB1C-B8C6021EAEC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1C005BF-0C7E-40EB-AB1C-B8C6021EAEC9}.Debug|Win32.Build.0 = Debug|Win32
+		{C1C005BF-0C7E-40EB-AB1C-B8C6021EAEC9}.Release|Win32.ActiveCfg = Release|Win32
+		{C1C005BF-0C7E-40EB-AB1C-B8C6021EAEC9}.Release|Win32.Build.0 = Release|Win32
+		{2FD3C5CA-BEEF-406D-AA11-2B004433CBBD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FD3C5CA-BEEF-406D-AA11-2B004433CBBD}.Debug|Win32.Build.0 = Debug|Win32
+		{2FD3C5CA-BEEF-406D-AA11-2B004433CBBD}.Release|Win32.ActiveCfg = Release|Win32
+		{2FD3C5CA-BEEF-406D-AA11-2B004433CBBD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
