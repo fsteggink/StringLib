@@ -1,8 +1,9 @@
-Debug
-Release
+*.opensdf
 *.sdf
-ipch
-UpgradeLog.xml
-_UpgradeReport_Files
 *.suo
 *.user
+Debug
+ipch
+Release
+UpgradeLog.xml
+_UpgradeReport_Files
